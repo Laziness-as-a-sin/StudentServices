@@ -1,0 +1,75 @@
+#back_top{
+  background-image: url(Images/Layer-8.png);
+  width: cover;
+  height: 280px;
+  background-repeat: repeat-x;
+  background-position: o o;
+}
+
+#logo{
+  background-image: url(Images/logo.png);
+  width: cover;
+  height: 280px;
+  background-position: 80px 28px;
+  background-repeat: no-repeat;
+}
+
+#ttext1{
+  background-image: url(Images/student.png);
+  width: cover;
+  height: 280px;
+  background-position: 710px 60px;
+  background-repeat: no-repeat;  
+}
+
+#ttext2{
+  background-image: url(Images/services.png);
+  width: cover;
+  height: 280px;
+  background-position: 700px 130px;
+  background-repeat: no-repeat;  
+}
+
+#fa{
+  background-image: url(Images/fa.png);
+  width: cover;
+  height: 66px;
+  background-position: 0px 0px;
+  background-repeat: repeat-x;
+}
+
+input {
+	padding: 10px 10px 10px 10px !important;
+	margin: 5px 10px 10px 10px;
+	
+	border-radius: 5px;
+	border: 1.5px solid #0e6190;
+}
+
+#ss{
+    background-image: url(Images/ss.png);
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+}
+
+.footer img {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+}
+
+
+
+.box2{
+  background:white;
+  width:500px;
+  border-radius:6px;
+  margin: 0 auto 0 auto;
+  padding:0px 0px 70px 0px;
+  border: #2980b9 4px solid;
+}
+
+
+
+
